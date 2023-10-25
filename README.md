@@ -1,12 +1,10 @@
-# Mirror
+# Turbowarp Mirror
 
-https://mirror.turbowarp.xyz/
+https://tw.imadethiswebsiteandputit.online/
 
-These are some scripts for making mirrors of [TurboWarp](https://turbowarp.org/).
+## How to make your own TW mirror
 
-## How to make your own mirror
-
-If you have a GitHub account, it's easy to make your own mirror with a URL like: `username.github.io/mirror/`
+If you have a GitHub account, it's easy to make your own mirror with a URL like: `username.github.io/mirror/`. You can even make one with a custom domain like mine if you know how to deploy a GitHub Pages site to a custom domain.
 
 1. Fork the repository on GitHub. The name of the repository determines the path part of the mirror's URL.
 3. Go to the "Settings" tab on your fork > Pages > set Source to GitHub Actions.
