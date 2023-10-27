@@ -1,6 +1,10 @@
 # Turbowarp Mirror
 
-https://tw.imadethiswebsiteandputit.online/
+Can be accessed at https://tw.imadethiswebsiteandputit.online/
+
+## Why make a mirror?
+
+Many schools and organizations block the original TurboWarp, with the reason given being for "games", even though most of the games playable there are hosted on Scratch, which is usually not blocked because there are classes offered that teach it and it's educational coding. TurboWarp is the same thing as the Scratch editor but way more advanced. It has many features and extensions that aren't available on Scratch.
 
 ## How to make your own TW mirror
 
