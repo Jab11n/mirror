@@ -1,6 +1,6 @@
 # Turbowarp Mirror
 
-Can be accessed at https://tw.imadethiswebsiteandputit.online/
+
 
 ## Why make a mirror?
 
